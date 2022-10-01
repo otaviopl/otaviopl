@@ -4,7 +4,7 @@
 
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-🖥 Student of Analise e Desenvolvimento de Sistemas
+🖥 Student of Analise e Desenvolvimento de Sistemas at IFSP.
 
 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
