@@ -15,5 +15,5 @@ Coding on Python, CSS, Html, C and Javascript
 
 Be a fullstack developer!
 
-Linkedin: Otávio Pereia Lopes.
+[My LinkedIn Profile](https://www.linkedin.com/in/otávio-pereira-lopes-603432218/).
 
