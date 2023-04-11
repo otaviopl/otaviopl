@@ -8,7 +8,7 @@
 
 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
-Coding on Python, CSS, Html, C, Javascript, Java and PHP.
+Coding on Python, CSS, Html, C, Javascript, Java,PHP and SQL.
 
 
 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
