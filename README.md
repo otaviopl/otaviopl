@@ -1,3 +1,4 @@
+[![MasterHead](https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif)](https>//rishvchanda.io)
 <h1 align="center">Hi 👋, I'm Otávio</h1>
 <h3 align="center">I am currently an undergraduate student majoring in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).</h3>
 
