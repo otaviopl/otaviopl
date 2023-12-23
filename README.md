@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Otávio</h1>
 <h3 align="center">I am currently an undergraduate student majoring in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
-- What am I currently learning? I'm currently learning Kotlin, MongoDB and improving my knowledge in Spring. 
+ What am I currently learning? 
+- I'm currently learning Kotlin, MongoDB and improving my knowledge in Spring. 
 
-- Programming languages: I've coded before **C| PHP | Python | MySQL**
+- Programming languages I've coded before -> **C| PHP | Python | MySQL**
 
-- Tools and Technologies: **Git | VSCode | IntelliJ | Slack | Trello | Docker**
+- Tools and Technologies: -> **Git | VSCode | IntelliJ | Slack | Trello | Docker**
 
 - 📫 How to reach me **otavio.pereira.lopes@gmail.com**
 
