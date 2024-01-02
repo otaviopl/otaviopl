@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Otávio</h1>
 <h3 align="center">I am currently an undergraduate student majoring in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).</h3>
 <img align="right" alt="Coding" width="200" src="[https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gi](https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif)">
+![text-work](https://github.com/otaviopl/otaviopl/assets/64035857/0a9ab535-e52e-44a6-a044-8231e5d4fecb)
+
  What am I currently learning? 
 - I'm currently learning Kotlin, MongoDB and improving my knowledge in Spring. 
 
