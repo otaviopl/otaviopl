@@ -5,9 +5,7 @@
 
 
  What am I currently learning? 
-- I'm currently learning Kotlin, MongoDB and improving my knowledge in Spring. 
-
-- Programming languages I've coded before -> **C| PHP | Python | MySQL**
+- I'm currently learning DataScience-Python. 
 
 - Tools and Technologies: -> **Git | VSCode | IntelliJ | Slack | Trello | Docker**
 
