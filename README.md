@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Otávio</h1>
 <h3 align="center">I am currently an undergraduate student majoring in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).</h3>
 
-![06f21a161921919 63cd7887d0a70](https://github.com/otaviopl/otaviopl/assets/64035857/438f1270-031f-4274-b0f7-8685db4df51c)
 
 
  What am I currently learning? 
