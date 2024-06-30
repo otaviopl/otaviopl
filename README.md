@@ -6,7 +6,7 @@
  What am I currently learning? 
 - I'm currently learning DataScience-Python. 
 
-- Tools and Technologies: -> **Git | VSCode | IntelliJ | Slack | Trello | Docker | Notion | Google Sheets | Linux**
+- Tools and Technologies: -> **Git | VSCode | IntelliJ | Slack | Trello | Docker | Notion | Google Sheets | Linux | Google Cloud | Notion**
 
 - 📫 How to reach me **otavio.pereira.lopes@gmail.com**
 
